@@ -1,0 +1,34 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "Isla Bra (LN332)",
+            "price": "£29"
+        },
+        {
+            "id": 2,
+            "name": "Nordic Rose Bra (LN336)",
+            "price": "£30"
+        },
+        {
+            "id": 3,
+            "name": "Zentangle Bra (FY240)",
+            "price": "£34"
+        },
+        {
+            "id": 4,
+            "name": "Clara Bra (PN112)",
+            "price": "£32"
+        },
+        {
+            "id:": 5,
+            "name": "Deco Delight Bra (FY158)",
+            "price": "£34"
+        },
+        {
+            "id": 6,
+            "name": "Sienna Bra (LN328)",
+            "price": "£32"
+        }
+    ]
+}
